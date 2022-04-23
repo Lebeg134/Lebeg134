@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lebeg134
-- 👀 I’m interested in Modding Minecraft
+- 👀 I’m interested in Game Developement
 - 🌱 I’m currently learning Computer science engineering at BME
 - 💞️ I’m looking to collaborate on nothing at the moment :3
 - 📫 You can reach me at lebeg134@gmail.com
