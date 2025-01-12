@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lebeg134
 - 👀 I’m interested in Game Developement
 - 💼 I’m currently working as a UI Developer
-- 💞️ I’m looking to collaborate on nothing at the moment :3
 - 📫 You can reach me at lebeg134@gmail.com
 
 <!---
