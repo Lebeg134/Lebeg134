@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Lebeg134
-- 👀 I’m interested in Game Developement
+- 🎮 I’m interested in Game Developement
+- 🤔 I'm interested in Quantum computing
 - 📚 I'm currently studying at a University
 - 📫 You can reach me at lebeg134@gmail.com
 
