@@ -3,6 +3,7 @@
 - 🤔 I'm interested in Quantum computing
 - 📚 I'm currently studying at a University
 - 📫 You can reach me at lebeg134@gmail.com
+- ☕ [Buy me a coffee](coff.ee/lebeg134)
 
 <!---
 Lebeg134/Lebeg134 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
